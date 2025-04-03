@@ -1,7 +1,7 @@
 # package_imagens_adr
 
 Description.
-Um pacote para processamento básico de imagens usando OpenCV/PIL. - -
+Um pacote para processamento básico de imagens usando OpenCV/PIL.
 
 ## Installation
 
