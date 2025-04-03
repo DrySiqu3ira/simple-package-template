@@ -1,9 +1,7 @@
-# package_name
+# package_imagens_adr
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Description.
+Um pacote para processamento básico de imagens usando OpenCV/PIL. - -
 
 ## Installation
 
@@ -21,7 +19,9 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+
+Adrienne Siqueira
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
