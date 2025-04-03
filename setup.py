@@ -14,7 +14,7 @@ page_description = read_file("README.md")
 requirements = read_file("requirements.txt").splitlines()
 
 setup(
-    name="package_imagens",
+    name="package_imagens-adr",
     version="0.0.1", 
     author="Adrienne Siqueira",
     author_email="adrienne_siqueira97@hotmail.com",
